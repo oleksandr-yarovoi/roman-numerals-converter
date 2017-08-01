@@ -1,4 +1,4 @@
-Romen numerals converter
+Roman numerals converter
 ===================================
 
 Installation:
