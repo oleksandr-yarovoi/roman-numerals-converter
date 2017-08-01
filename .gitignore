@@ -1,0 +1,5 @@
+.idea
+*.iml
+tests/_output/*
+composer.lock
+vendor
